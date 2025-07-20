@@ -37,7 +37,7 @@ Model to predict:
 
 ## Technologies Used
 
-- Python (NumPy, pandas, scikit-learn, TensorFlow/Keras)
+- Python (NumPy, pandas, scikit-learn, TensorFlow)
 - Jupyter Notebooks
 - Sentaurus TCAD (for simulation data in SONOS and NAND_Polygrain)
 
@@ -46,7 +46,6 @@ Model to predict:
 ## Goals
 
 - Understand and predict device threshold voltage variation using ML.
-- Compare performance across synthetic and physically simulated datasets.
 - Explore physical effects (like polygrain variation) on memory performance.
 
 ---
